@@ -79,7 +79,18 @@ margin: 40px 0;
 width:100%;clip-path: circle();
 }
 
+.youtube{
+  height: 35px;
+  width: 35px;
+}
+.twitter{
+  height: 35px;
+  width: 35px;
+}
 
+.see-more{
+text-align: right;
+}
 .link
 {
 color: white ;
